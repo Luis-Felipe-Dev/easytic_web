@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(38, 95, 133);
+}
+
+.logo {
+    text-decoration: none;
+    color: black;
+    font-size: 3rem;
+}
+
+.position-relative .contenido-principal {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.position-relative .contenido-politica-privacidad {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.position-relative .contenido-politica-privacidad p {
+    text-align: justify;
+}
